@@ -1,0 +1,59 @@
+body {
+    background-color: antiquewhite;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* cabeçalho */
+h1{
+    font-family: 'Henny Penny', cursiva;
+}
+
+h2{
+    text-align: center;
+    color: blue;
+    margin: 5% 0% 5% 0%;
+}
+
+strong{
+    font-size: 2em;
+}
+
+sub{
+    font-size: 2em;
+}
+/* Fim cabeçalho */
+/* conteudo */
+div figure img {
+    width: 100%;
+    clip-path: circle();
+    margin: 3%;
+}
+
+h3{
+    color: brown;
+    font-size: 1.5em;
+    font-family: fantasy;
+    margin: auto;
+}
+
+ol{
+    text-align: justify;
+    font-style: italic;
+    font-size: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3:hover {
+    font-size: 1.8em;
+    color: rgb(158, 156, 2);
+}
+
+div img{
+    width: 100%;
+    clip-path: circle();
+}
+
+.secao1{
+    border: solid ;
+}
+/* Fim Conteudo */
